@@ -1,4 +1,4 @@
-# Vscode 使用 Git图形化工具ide
+# Vscode 使用 Git图形化工具IDE
    
 > 检查是否成功安装Git环境
 - windows搜索栏输入Power Shell，右键以管理员身份运行
